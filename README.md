@@ -29,6 +29,8 @@ soundness-cli import-key --name my-key --mnemonic "Your Pharse"
 ```
 
 ## Play the Game
+![Strategi 8 Queens](catur.jpg)
+
 Jika kamu melihat server #game-arena terbuka, itu berarti giliranmu untuk bermain.
 
 ➾ Ketik /8queens
