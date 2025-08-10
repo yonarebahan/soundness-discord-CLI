@@ -29,7 +29,7 @@ soundness-cli import-key --name my-key --mnemonic "Your Pharse"
 ```
 
 ## Play the Game
-![Strategi 8 Queens](catur.jpg)
+![strategy caturnya](catur.jpg)
 
 Jika kamu melihat server #game-arena terbuka, itu berarti giliranmu untuk bermain.
 
@@ -41,11 +41,12 @@ Kamu bisa menggunakan strategi yang sudah aku berikan di gambar, atau mencari st
 
 
 ## Dapatkan Perintah
+![command](command.jpg)
 Setelah kamu berhasil menyelesaikan permainan, tunggu 5–20 menit hingga perintah Soundness CLI muncul, lalu salin perintah tersebut.
 
 
 ## Edit dan Tempel Perintah
-
+![role](role.jpg)
 ➾ Pastikan untuk mengedit perintah: --key-name="here"
 (ganti "here" dengan nama key milikmu saat pertama kali menginstal CLI contoh : my-key)
 
