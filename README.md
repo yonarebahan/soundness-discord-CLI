@@ -2,7 +2,7 @@
 
 ## cek discord harus muncul server
 kayak gini baru bisa main
-![game-arena](game-arena.jpg)
+![game-arena](game-arena.png)
 
 ## Install CLI
 
