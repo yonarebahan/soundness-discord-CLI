@@ -1,5 +1,9 @@
 #step by step
 
+## cek discord harus muncul server
+
+![game-arena](.jpg)
+
 ## Install CLI
 
 ```
