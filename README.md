@@ -1,6 +1,6 @@
 #step by step
 
-### Install CLI
+## Install CLI
 
 ```
 sudo apt update && sudo apt upgrade -y
@@ -22,13 +22,13 @@ soundnessup install
 soundnessup update
 ```
 
-### Import Old Account mu
+## Import Old Account mu
 
 ```
 soundness-cli import-key --name my-key --mnemonic "Your Pharse"
 ```
 
-### Play the Game
+## Play the Game
 Jika kamu melihat server #game-arena terbuka, itu berarti giliranmu untuk bermain.
 
 ➾ Ketik /8queens
@@ -38,11 +38,11 @@ Permainannya adalah teka-teki catur di mana kamu harus menempatkan 8 ratu dengan
 Kamu bisa menggunakan strategi yang sudah aku berikan di gambar, atau mencari strategi lain menggunakan ChatGPT.
 
 
-###Dapatkan Perintah
+## Dapatkan Perintah
 Setelah kamu berhasil menyelesaikan permainan, tunggu 5–20 menit hingga perintah Soundness CLI muncul, lalu salin perintah tersebut.
 
 
-###Edit dan Tempel Perintah
+## Edit dan Tempel Perintah
 
 ➾ Pastikan untuk mengedit perintah: --key-name="here"
 (ganti "here" dengan nama key milikmu saat pertama kali menginstal CLI contoh : my-key)
