@@ -1,8 +1,8 @@
 #step by step
 
 ## cek discord harus muncul server
-
-![game-arena](.jpg)
+kayak gini baru bisa main
+![game-arena](game-arena.jpg)
 
 ## Install CLI
 
