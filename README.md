@@ -57,3 +57,5 @@ Setelah kamu berhasil menyelesaikan permainan, tunggu 5–20 menit hingga perint
 Cek Discord-mu
 
 Setelah selesai, kamu akan melihat bahwa akun Discord-mu sudah mendapatkan role OG.
+
+source pict : bang pateng
